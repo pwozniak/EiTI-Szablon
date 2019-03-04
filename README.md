@@ -1,7 +1,9 @@
 # EiTI-Szablon
-EiTI Szablon MGR INŻ Autor: Piotr Woźniak
+EiTI Szablon MGR INŻ
 
-Postanowiłem udostępnić mój autorski szablon, zgodny ze wszystkimi normami PW. Szablon jest dostępny do pobrania w postaci archiwum ZIP z plikiem *.tex oraz do skopiowania do swojego konta Overleaf 2.0 (polecam tę stronkę, lepsza niż TeX Maker). W folderze "titlepage" znajduje się grafika tytułowa do pracy magisterskiej i inżynierskiej.
+Autor: Piotr Woźniak
+
+Postanowiłem udostępnić mój autorski szablon, zgodny ze wszystkimi normami PW. W folderze "titlepage" znajduje się grafika tytułowa do pracy magisterskiej i inżynierskiej.
 
 UWAGA:
 
