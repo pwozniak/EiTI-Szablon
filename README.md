@@ -3,6 +3,10 @@ EiTI Szablon MGR INŻ
 
 Autor: Piotr Woźniak
 
+## Projekt nie będzie rozwijany
+Nowsze wersje szablonu dostępne na repozytorium poniżej:
+https://github.com/ArturB/WUT-Thesis
+
 Postanowiłem udostępnić mój autorski szablon, zgodny ze wszystkimi normami PW. W folderze "titlepage" znajduje się grafika tytułowa do pracy magisterskiej i inżynierskiej.
 
 UWAGA:
