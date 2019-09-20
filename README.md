@@ -3,8 +3,8 @@ EiTI Szablon MGR INŻ
 
 Autor: Piotr Woźniak
 
-## UWAGA: Projekt nie będzie rozwijany
-Nowsze wersje szablonu dostępne w tym repozytorium:
+## UWAGA: Projekt nie będzie rozwijany!!!
+Nowsze wersje szablonu dostępne pod linkiem poniżej:
 
 https://github.com/ArturB/WUT-Thesis
 
